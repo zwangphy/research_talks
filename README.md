@@ -27,6 +27,6 @@ Given at **APS April Meeting** in Apr 2021 ([website](https://meetings.aps.org/M
 
 ## Dark matter particle in QCD
 
-Given at APS April Meeting in Apr 2020 ([website](https://meetings.aps.org/Meeting/APR20/Session/C13.4))
+Given at **APS April Meeting** in Apr 2020 ([website](https://meetings.aps.org/Meeting/APR20/Session/C13.4))
 
 [The talk file is here](/APSmeeting.pdf)
