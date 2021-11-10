@@ -19,7 +19,7 @@ Given at **Brookhaven Forum** in Nov 2021 ([website](https://www.bnl.gov/bf2021/
     [The talk file is here](/PPC.pdf)
 
 
-## Mass of flavor singlet *uuddss* in QCD sum rules
+## Computing the mass of flavor singlet *uuddss* with QCD sum rules
 
 Given at **APS April Meeting** in Apr 2021 ([website](https://meetings.aps.org/Meeting/APR21/Session/S20.3))
 
