@@ -14,3 +14,17 @@ Event website: https://www.bnl.gov/bf2021/
 Given at **International Conference on Interconnections between Particle Physics and Cosmology** (PPC) in Jun 2021
 
 Website: https://indico.cern.ch/event/822029/
+
+## Mass of flavor singlet uuddss in QCD sum rules
+[The talk file is here]
+
+Given at APS April Meeting in Apr 2021
+
+Website:https://meetings.aps.org/Meeting/APR21/Session/S20.3
+
+## Dark matter particle in QCD
+[The talk file is here](/APSmeeting.pdf)
+
+Given at APS April Meeting in Apr 2020
+
+Website:https://meetings.aps.org/Meeting/APR20/Session/C13.4
