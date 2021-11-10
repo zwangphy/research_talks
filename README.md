@@ -11,6 +11,6 @@ Event website: https://www.bnl.gov/bf2021/
 ## Gravitational microlensing by dark matter subhalos and boson stars
 [The talk file is here](/PPC.pdf)
 
-Given at International Conference on Interconnections between Particle Physics and Cosmology (PPC) in Jun 2021
+Given at **International Conference on Interconnections between Particle Physics and Cosmology** (PPC) in Jun 2021
 
 Website: https://indico.cern.ch/event/822029/
