@@ -15,7 +15,7 @@ Given at **International Conference on Interconnections between Particle Physics
 
 Website: https://indico.cern.ch/event/822029/
 
-## Mass of flavor singlet uuddss in QCD sum rules
+## Mass of flavor singlet *uuddss* in QCD sum rules
 [The talk file is here]
 
 Given at APS April Meeting in Apr 2021
