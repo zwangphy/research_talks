@@ -8,3 +8,9 @@ It was given at **Brookhaven Forum** in Nov 2021
 
 Event website: https://www.bnl.gov/bf2021/
 
+## Gravitational microlensing by subhalos and boson stars
+[The talk file is here](\PPC.pdf)
+
+It was given by International Conference on Interconnections between Particle Physics and Cosmology (PPC) in Jun 2021
+
+Website: https://indico.cern.ch/event/822029/
