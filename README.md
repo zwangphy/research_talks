@@ -19,11 +19,11 @@ Given at **Brookhaven Forum** in Nov 2021 ([website](https://www.bnl.gov/bf2021/
     [The talk file is here](/docs/PPC.pdf)
 
 
-## Computing the mass of flavor singlet *uuddss* with QCD sum rules
+## Mass of flavor singlet *uuddss* with QCD sum rules
 
 Given at **APS April Meeting** in Apr 2021 ([website](https://meetings.aps.org/Meeting/APR21/Session/S20.3))
 
-[The talk file is here]
+[The talk file is here](/docs/aps2021.pdf)
 
 ## Dark matter particle in QCD
 
