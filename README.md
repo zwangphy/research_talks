@@ -5,18 +5,18 @@ This repository contains some of my conference talks.
 
 Given at **Brookhaven Forum** in Nov 2021 ([website](https://www.bnl.gov/bf2021/))
 
-[The talk file is here](/BF21.pdf)
+[The talk file is here](/docs/BF21.pdf)
 
 
 ## Gravitational microlensing by dark matter subhalos and boson stars
 
 1. Given at **International Conference on Supersymmetry** (SUSY) in Aug 2021 ([website](https://indico.cern.ch/event/875077/))
 
-    [The talk file is here](/susy21.pdf)
+    [The talk file is here](/docs/susy21.pdf)
 
 2. Given at **International Conference on Interconnections between Particle Physics and Cosmology** (PPC) in Jun 2021 ([website](https://indico.cern.ch/event/822029/))
 
-    [The talk file is here](/PPC.pdf)
+    [The talk file is here](/docs/PPC.pdf)
 
 
 ## Computing the mass of flavor singlet *uuddss* with QCD sum rules
@@ -29,4 +29,4 @@ Given at **APS April Meeting** in Apr 2021 ([website](https://meetings.aps.org/M
 
 Given at **APS April Meeting** in Apr 2020 ([website](https://meetings.aps.org/Meeting/APR20/Session/C13.4))
 
-[The talk file is here](/APSmeeting.pdf)
+[The talk file is here](/docs/APSmeeting.pdf)
