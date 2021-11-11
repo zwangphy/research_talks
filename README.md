@@ -1,5 +1,5 @@
 # research_talks
-This repository contains some of my conference talks.
+This repository contains some of my conference and seminar talks.
 
 ## Gas-rich dwarf galaxy bounds on dark matter decay and annihilation
 
